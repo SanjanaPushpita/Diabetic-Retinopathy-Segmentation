@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+.env.local
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python egg metadata
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Kaggle credentials (handled via user secrets, do not commit)
+kaggle.json
+
+# Cache / temp
+.cache/
+*.tmp
+*.bak
